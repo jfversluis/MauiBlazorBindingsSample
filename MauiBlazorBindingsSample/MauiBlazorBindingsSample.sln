@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31611.283
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MauiBlazorBindingsSample", "MauiBlazorBindingsSample\MauiBlazorBindingsSample.csproj", "{FE55C57A-CA22-40EE-BD85-F2F75AE6B32B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE55C57A-CA22-40EE-BD85-F2F75AE6B32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE55C57A-CA22-40EE-BD85-F2F75AE6B32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE55C57A-CA22-40EE-BD85-F2F75AE6B32B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FE55C57A-CA22-40EE-BD85-F2F75AE6B32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE55C57A-CA22-40EE-BD85-F2F75AE6B32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE55C57A-CA22-40EE-BD85-F2F75AE6B32B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DC9736B-3DE8-4BDB-88CE-FC14C0CB4957}
+	EndGlobalSection
+EndGlobal
